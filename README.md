@@ -1,2 +1,2 @@
 # Snake
-A simble sanke eats fruit game .
+A simble snake eats fruit game .
